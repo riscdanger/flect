@@ -1,4 +1,4 @@
-module github.com/gobuffalo/flect
+module github.com/riscdanger/flect
 
 go 1.16
 

@@ -1,6 +1,6 @@
 package name
 
-import "github.com/gobuffalo/flect"
+import "github.com/riscdanger/flect"
 
 // Ident represents the string and it's parts
 type Ident struct {
